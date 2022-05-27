@@ -61,6 +61,19 @@ contract WavePortal {
         return votes;
     }
 
+    function getCandidate1Votes() public view returns (uint256) {
+        return candidate1;
+    }
+    function getCandidate2Votes() public view returns (uint256) {
+        return candidate2;
+    }
+    function getCandidate3Votes() public view returns (uint256) {
+        return candidate3;
+    }
+    function getNoneVotes() public view returns (uint256) {
+        return noSelection;
+    }
+
     
     function getTotalVotes() public view returns (uint256) {
         console.log("The total vote counts of the candidates are:");

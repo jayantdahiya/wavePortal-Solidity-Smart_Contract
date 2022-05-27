@@ -74,8 +74,8 @@
       ]
     },
     "/Users/jayantdahiya/Documents/GitHub/wavePortal-Solidity-Smart_Contract/contracts/WavePortal.sol": {
-      "lastModificationDate": 1653176090809,
-      "contentHash": "b79bd496df53923aa6694ba2cc570965",
+      "lastModificationDate": 1653505397361,
+      "contentHash": "ba3f3f6e3235b04c7156e57fdae42262",
       "sourceName": "contracts/WavePortal.sol",
       "solcConfig": {
         "version": "0.8.0",
